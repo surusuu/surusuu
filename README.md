@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=86bbdc&height=160)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=#e97673&height=160)
 
   <h3>Hi there, 👋</h3>
   <p>I'm SuhyunKim, a junior web developer. 🌱</p>
