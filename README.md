@@ -29,13 +29,5 @@
 <a>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
           </a>
-  <table>
-    <tbody>
-      <tr>
-        <td width="50%" align="center">
-          
-        </td>
-      </tr>
-    </tbody>
-  </table>
+
 </div>
