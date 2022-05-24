@@ -26,8 +26,7 @@
   </p>
   <br/>
   <h3>⭐️ Github Stats ⭐️</h3>
-<a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
-          </a>
-
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
+  </a>
 </div>
