@@ -32,12 +32,12 @@
       <tr>
         <td width="30%" align="center">
           <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=suuruu&show_icons=true&height=100"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
           </a>
         </td>
         <td width="30%" align="center">
           <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suuruu&layout=compact&height=100"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surusuu&layout=compact&height=100"/>
           </a>
         </td>
       </tr>
