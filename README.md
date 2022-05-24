@@ -32,14 +32,9 @@
   <table>
     <tbody>
       <tr>
-        <td width="30%" align="center">
+        <td width="50%" align="center">
           <a>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
-          </a>
-        </td>
-        <td width="30%" align="center">
-          <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surusuu&layout=compact&height=100"/>
           </a>
         </td>
       </tr>
