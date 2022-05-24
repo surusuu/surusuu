@@ -1,7 +1,4 @@
 <div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=#e97673&height=160)
-
   <h3>Hi there, 👋</h3>
   <p>I'm SuhyunKim, a junior web developer. 🌱</p>
   <br/>
@@ -29,13 +26,14 @@
   </p>
   <br/>
   <h3>⭐️ Github Stats ⭐️</h3>
+<a>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
+          </a>
   <table>
     <tbody>
       <tr>
         <td width="50%" align="center">
-          <a>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=surusuu&show_icons=true&height=100"/>
-          </a>
+          
         </td>
       </tr>
     </tbody>
