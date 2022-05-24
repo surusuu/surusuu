@@ -20,10 +20,10 @@
   <br/>
   <h3>🌈 About Me 🌈</h3>
   <p>
-    <a href="https://velog.io/@surusuu_">
+    <a href="https://velog.io/@surusuu_" target="_blank">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/>
     </a>&nbsp
-    <a href="https://suhyun2568@gmail.com">
+    <a href="mailto:suhyun2568@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/>
     </a>
   </p>
